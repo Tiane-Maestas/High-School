@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nodes
+comment1.params=state\ posX\ posY
+comment1.target=Nodes(boolean,\ int,\ int)
+comment2.params=posX\ posY
+comment2.target=Nodes(int,\ int)
+comment3.params=state
+comment3.target=void\ update(boolean)
+comment4.params=
+comment4.target=boolean\ getState()
+comment5.params=
+comment5.target=int\ getPosX()
+comment6.params=
+comment6.target=int\ getPosY()
+numComments=7

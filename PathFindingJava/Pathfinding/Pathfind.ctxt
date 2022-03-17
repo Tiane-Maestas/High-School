@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pathfind
+comment1.params=unit
+comment1.target=Pathfind(int)
+comment2.params=nodesArray\ startX\ startY\ endX\ endY\ startBlock\ endBlock
+comment2.target=void\ start(Nodes[][],\ int,\ int,\ int,\ int,\ boolean,\ boolean)
+comment3.params=nodesArray\ currentX\ currentY\ endX\ endY
+comment3.target=void\ aStar(Nodes[][],\ int,\ int,\ int,\ int)
+comment4.params=costUp\ costDown\ costLeft\ costRight\ costURight\ costULeft\ costDRight\ costDLeft
+comment4.target=java.lang.String\ compareCosts(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=i
+comment5.target=int\ pathX(int)
+comment6.params=i
+comment6.target=int\ pathY(int)
+comment7.params=
+comment7.target=int\ length()
+numComments=8
