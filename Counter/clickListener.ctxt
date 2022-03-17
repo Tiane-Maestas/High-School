@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=clickListener
+comment0.text=\r\nAn\ action\ listener\ that\ prints\ a\ message.\ \r\n
+comment1.params=i
+comment1.target=clickListener(int)
+comment2.params=name
+comment2.target=clickListener(java.lang.String)
+comment3.params=name\ b
+comment3.target=clickListener(java.lang.String,\ java.awt.event.ActionListener)
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

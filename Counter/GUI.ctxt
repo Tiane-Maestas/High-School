@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=width\ height
+comment1.target=GUI(int,\ int)
+comment2.params=
+comment2.target=void\ createFrame()
+numComments=3
