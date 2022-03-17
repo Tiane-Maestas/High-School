@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MouseMotionEvent
+comment1.params=
+comment1.target=int\ Y()
+comment2.params=
+comment2.target=int\ X()
+comment3.params=e
+comment3.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment4.params=e
+comment4.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment5.params=eventDescription\ e
+comment5.target=void\ saySomething(java.lang.String,\ java.awt.event.MouseEvent)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BodyPart
+comment1.params=x\ y
+comment1.target=BodyPart(int,\ int)
+comment2.params=
+comment2.target=int\ X()
+comment3.params=
+comment3.target=int\ Y()
+comment4.params=input
+comment4.target=void\ setX(int)
+comment5.params=input
+comment5.target=void\ setY(int)
+numComments=6
