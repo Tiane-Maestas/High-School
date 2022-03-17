@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Display
+comment1.params=title\ width\ height
+comment1.target=Display(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ createDisplay()
+comment3.params=
+comment3.target=java.awt.Canvas\ getCanvas()
+comment4.params=
+comment4.target=javax.swing.JFrame\ getFrame()
+comment5.params=
+comment5.target=Mouse\ getMouse()
+comment6.params=
+comment6.target=javax.swing.JLabel\ getStatusbar()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ColorFrame
+comment1.params=
+comment1.target=ColorFrame()
+comment2.params=
+comment2.target=void\ createControlPanel()
+comment3.params=
+comment3.target=void\ setSampleColor()
+comment3.text=\r\n\ \ \tReads\ the\ slider\ values\ and\ sets\ the\ panel\ to\r\n\ \ \tthe\ selected\ color.\r\n
+numComments=4
