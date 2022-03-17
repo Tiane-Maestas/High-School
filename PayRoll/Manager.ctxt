@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=name
+comment1.target=Manager(java.lang.String)
+comment2.params=daysWorked
+comment2.target=double\ calculatePay(int)
+numComments=3
