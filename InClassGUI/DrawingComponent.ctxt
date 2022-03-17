@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DrawingComponent
+comment1.params=width\ height
+comment1.target=DrawingComponent(int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
